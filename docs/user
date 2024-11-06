@@ -1,0 +1,62 @@
+[
+  {
+    "name": "李华",
+    "gender": "男",
+    "age": 20,
+    "score": 88
+  },
+  {
+    "name": "王芳",
+    "gender": "女",
+    "age": 21,
+    "score": 92
+  },
+  {
+    "name": "张伟",
+    "gender": "男",
+    "age": 22,
+    "score": 85
+  },
+  {
+    "name": "刘娜",
+    "gender": "女",
+    "age": 19,
+    "score": 95
+  },
+  {
+    "name": "陈杰",
+    "gender": "男",
+    "age": 23,
+    "score": 78
+  },
+  {
+    "name": "赵丽",
+    "gender": "女",
+    "age": 20,
+    "score": 90
+  },
+  {
+    "name": "黄明",
+    "gender": "男",
+    "age": 21,
+    "score": 82
+  },
+  {
+    "name": "孙婷",
+    "gender": "女",
+    "age": 22,
+    "score": 87
+  },
+  {
+    "name": "周强",
+    "gender": "男",
+    "age": 20,
+    "score": 93
+  },
+  {
+    "name": "吴雪",
+    "gender": "女",
+    "age": 19,
+    "score": 91
+  }
+]
